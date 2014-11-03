@@ -9,8 +9,8 @@
     This is a test pom! :)
   </description>
   <scm>
-    <connection>scm:git:git@github.com:awallat/test.git</connection>
-    <developerConnection>scm:git:git@github.com:awallat/test.git</developerConnection>
+    <connection>scm:git:git://github.com:awallat/test.git</connection>
+    <developerConnection>scm:git:git://github.com:awallat/test.git</developerConnection>
     <tag>test-pom-1.0.0</tag>
   </scm>
 
