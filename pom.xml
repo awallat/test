@@ -3,7 +3,7 @@
   <groupId>de.test</groupId>
   <artifactId>test-pom</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>my-test-pom</name>
   <description>
     This is a test pom!
@@ -11,6 +11,7 @@
   <scm>
     <connection>scm:git:https://github.com/awallat/test.git</connection>
     <developerConnection>scm:git:https://github.com/awallat/test.git</developerConnection>
+    <tag>test-pom-1.0.0</tag>
   </scm>
 
   <build>
