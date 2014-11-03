@@ -6,7 +6,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <name>my-test-pom</name>
   <description>
-    This is a test pom! CHANGED!
+    This is a test pom! CHANGED!!!
   </description>
   <scm>
     <connection>scm:git:https://github.com/awallat/test.git</connection>
