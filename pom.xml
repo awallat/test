@@ -3,7 +3,7 @@
   <groupId>de.test</groupId>
   <artifactId>test-pom</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.4-SNAPSHOT</version>
+  <version>1.0.5-SNAPSHOT</version>
   <name>my-test-pom</name>
   <description>
     This is a test pom! :)
